@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jhw66/modules_learn/hello"
+	"github.com/jhw66/hello_module/hello"
 )
 
 func main() {
