@@ -1,4 +1,4 @@
-module github.com/jhw66/modules_learn
+module github.com/jhw66/hello_module
 
 go 1.25.1
 
