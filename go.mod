@@ -1,4 +1,4 @@
-module github.com/jhw66/hello_module
+module github.com/jhw66/hello_module  //Go 要求模块名必须与实际仓库路径完全一致，否则依赖解析会失败。
 
 go 1.25.1
 
