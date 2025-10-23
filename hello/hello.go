@@ -9,3 +9,7 @@ func Hello() string {
 func Hello_quote() string {
 	return quote.Hello()
 }
+
+func Review() string {
+	return "This is a review of Go modules."
+}
